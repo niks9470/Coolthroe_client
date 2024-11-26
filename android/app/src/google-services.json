@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "470350269456",
+    "project_id": "coolthrowadmin",
+    "storage_bucket": "coolthrowadmin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470350269456:android:99ff46b2766c4443658e95",
+        "android_client_info": {
+          "package_name": "com.example.coolthrow_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-eFFQfacPpUNn0WvI-8SQxvq_anFM9v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
